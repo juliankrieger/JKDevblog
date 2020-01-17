@@ -8,7 +8,6 @@ import styles from './Sidebar.module.scss';
 import { useSiteMetadata } from '../../hooks';
 
 
-
 const Sidebar = ({ isIndex }) => {
   const { author, copyright, menu } = useSiteMetadata();
 
