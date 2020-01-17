@@ -202,6 +202,7 @@ module.exports = {
         }
       }
     },
-    'gatsby-plugin-optimize-svgs'
+    'gatsby-plugin-optimize-svgs',
+    'gatsby-plugin-extract-schema'
   ]
 };
